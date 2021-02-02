@@ -1,7 +1,7 @@
-package com.mryow.controllers;
+package com.mryow.apps.controllers;
 
-import com.mryow.models.User;
-import com.mryow.repositories.UserRepository;
+import com.mryow.apps.models.User;
+import com.mryow.apps.repositories.UserRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 // import org.springframework.data.jpa.repository.config.EnableJpaRepositories;

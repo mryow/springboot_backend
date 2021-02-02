@@ -1,4 +1,4 @@
-package com.mryow.models;
+package com.mryow.apps.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
