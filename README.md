@@ -1,2 +1,2 @@
-# springboot_backend
+# springboot backend
 Backend with spring boot
